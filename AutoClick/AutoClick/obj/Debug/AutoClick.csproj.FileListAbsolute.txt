@@ -1,0 +1,16 @@
+F:\VS Example\AutoClick\AutoClick\bin\Debug\AutoClick.exe.config
+F:\VS Example\AutoClick\AutoClick\bin\Debug\AutoClick.exe.manifest
+F:\VS Example\AutoClick\AutoClick\bin\Debug\AutoClick.application
+F:\VS Example\AutoClick\AutoClick\bin\Debug\AutoClick.exe
+F:\VS Example\AutoClick\AutoClick\bin\Debug\AutoClick.pdb
+F:\VS Example\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.AssemblyReference.cache
+F:\VS Example\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.SuggestedBindingRedirects.cache
+F:\VS Example\AutoClick\AutoClick\obj\Debug\AutoClick.Form1.resources
+F:\VS Example\AutoClick\AutoClick\obj\Debug\AutoClick.Properties.Resources.resources
+F:\VS Example\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.GenerateResource.cache
+F:\VS Example\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.CoreCompileInputs.cache
+F:\VS Example\AutoClick\AutoClick\obj\Debug\AutoClick.TrustInfo.xml
+F:\VS Example\AutoClick\AutoClick\obj\Debug\AutoClick.exe.manifest
+F:\VS Example\AutoClick\AutoClick\obj\Debug\AutoClick.application
+F:\VS Example\AutoClick\AutoClick\obj\Debug\AutoClick.exe
+F:\VS Example\AutoClick\AutoClick\obj\Debug\AutoClick.pdb
